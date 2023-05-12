@@ -37,6 +37,16 @@ Aprendendo Go, e implementando um CRUD seguindo arquitetura MVC.
 
 </details>
 
+<details>
+  <summary>
+    Rotas
+  </summary>
+
+  Para lidar com rotas será usado o gin gonic, framework, mais movimentado na comunidade.\
+  Instalação: `go get -u github.com/gin-gonic/gin`
+
+</details>
+
 </details>
 
 #
