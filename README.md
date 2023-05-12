@@ -39,11 +39,21 @@ Aprendendo Go, e implementando um CRUD seguindo arquitetura MVC.
 
 <details>
   <summary>
-    Rotas
+    Biblioteca para API
   </summary>
 
   Para lidar com rotas será usado o gin gonic, framework, mais movimentado na comunidade.\
   Instalação: `go get -u github.com/gin-gonic/gin`
+
+</details>
+
+<details>
+  <summary>
+    Biblioteca para Validação de requisição
+  </summary>
+
+  Para validar o conteúdo enviado por requisição será usado o  [Validator](https://github.com/go-playground/validator)
+  Instalação: `go get github.com/go-playground/validator/v10`
 
 </details>
 
