@@ -57,6 +57,16 @@ Aprendendo Go, e implementando um CRUD seguindo arquitetura MVC.
 
 </details>
 
+<details>
+  <summary>
+    Biblioteca para Logs
+  </summary>
+
+  Para logs será usado o  [uber go zap](https://github.com/uber-go/zap)
+  Instalação: `go get -u go.uber.org/zap`
+
+</details>
+
 </details>
 
 #
