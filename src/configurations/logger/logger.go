@@ -49,6 +49,7 @@ func formatEnv(env string) string {
 }
 
 func getOutputLogs() string {
+
 	output := formatEnv(os.Getenv(LOG_OUTPUT))
 	if output == "" {
 		return "stdout"
